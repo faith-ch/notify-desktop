@@ -1,0 +1,25 @@
+{
+  "name": "notify-desktop",
+  "version": "1.0.0",
+  "description": "The desktop version of the notify app.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faith-ch/notify-desktop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faith-ch/notify-desktop/issues"
+  },
+  "homepage": "https://github.com/faith-ch/notify-desktop#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "electron-builder": "^23.6.0",
+    "electron": "^21.2.3"
+  }
+}
